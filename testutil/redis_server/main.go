@@ -1,8 +1,8 @@
 package main
 
 import (
-	"chess/util/redis"
 	"fmt"
+	"github.com/mjczz/chess/util/redis"
 	"time"
 )
 
